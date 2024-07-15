@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao perfil do vinicius010922 😁
+## Bem-vindo(a) ao perfil do viniciusmr010922 😁
 
  <div>
-   <a href="https://github.com/vinicius010922">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicius010922&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius010922&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/viniciusmr010922">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusmr010922&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmr010922&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
